@@ -2,3 +2,5 @@
 petite modification
 Test Demo GIT
 modification depuis github
+
+Modfication locale
